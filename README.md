@@ -21,7 +21,5 @@ To exploit our CNN and attack the emotion classification, we utilized two differ
 
 The goal was to create adversarial audio examples and get the model to make the wrong prediction.
 
-
-All code is contained within the notebook. The dataset is also included in this repo. 
-
-Any dependencies that are needed can be uncommented and downloaded within the notebook.
+### Running the code
+All code is contained within the notebook. The dataset is also included in this repo. Any dependencies that are needed can be uncommented and downloaded within the notebook.
