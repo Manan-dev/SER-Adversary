@@ -1,4 +1,4 @@
-# # ECE 469/569 Final Project -- Exploiting Vulnerabilities in Emotion Recognition for Health Monitoring Systems
+# ECE 469/569 Final Project -- Exploiting Vulnerabilities in Emotion Recognition for Health Monitoring Systems
 by Zachary Perry, Manan Patel, Jaehwan Park, Jennifer Maranville
 
 ---
