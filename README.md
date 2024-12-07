@@ -23,3 +23,6 @@ The goal was to create adversarial audio examples and get the model to make the 
 ### Running the code
 ---
 All code is contained within `main.ipynb`. The dataset is also included in this repo. Any dependencies that are needed can be uncommented and downloaded within the notebook.
+Additionally, we have included example outputs within the `adversarial_outputs/` directory. Lastly, we also provide a pretrained model (85% testing accuracy) that can be loaded and used. It's called `model.h5`. We ran multiple training session for ~12hrs and saved the best one, this one being the best.
+
+NOTE: If you are wanting to train your own model, then you will need to rename `model.h5`, as, currently, if it exists, it will use this.
